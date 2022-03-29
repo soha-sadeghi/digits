@@ -11,5 +11,6 @@ public class Main {
     public static int mmToCc(int m) {
        m=m*1000;
         return m;
+
     }
 }
